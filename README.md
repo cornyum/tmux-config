@@ -16,7 +16,7 @@
 ### 本地安装
 
 ```bash
-git clone https://github.com/你的用户名/tmux-config.git ~/.tmux-config
+git clone https://github.com/cornyum/tmux-config.git ~/.tmux-config
 cd ~/.tmux-config
 ./install.sh
 ```
@@ -24,7 +24,7 @@ cd ~/.tmux-config
 ### 远程一键安装
 
 ```bash
-curl -sL https://raw.githubusercontent.com/你的用户名/tmux-config/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/cornyum/tmux-config/main/install.sh | bash
 ```
 
 ## 使用说明
